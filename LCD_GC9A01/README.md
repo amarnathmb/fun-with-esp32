@@ -16,6 +16,22 @@ serial logging.
   Preferences.
 - Settings can be saved and applied without rebooting, or reloaded from flash.
 
+## Screenshots
+
+### Clock display
+
+![ESP32 clock face](./screenshots/Clock.png)
+
+### Web settings
+
+| General settings | Display colors |
+| --- | --- |
+| ![General settings tab](./screenshots/WebInterfaceGeneral.png) | ![Color settings tab](./screenshots/WebInterfaceColors.png) |
+
+| Position controls | Login credentials |
+| --- | --- |
+| ![Position settings tab](./screenshots/WebInterfacePosition.png) | ![Login credentials section](./screenshots/WebInterfaceSecurity.png) |
+
 ## Repository layout
 
 This README is in the Arduino sketch folder. Open [`LCD_GC9A01.ino`](./LCD_GC9A01.ino)
