@@ -1,0 +1,11 @@
+# Local Wi-Fi credentials
+/secrets.h
+**/secrets.h
+
+# Arduino and PlatformIO build artifacts
+**/build/
+**/.pio/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
